@@ -1,0 +1,2 @@
+- これはPlayerTo04のGitHubアカウントです
+- This is a PlayerTo04 GitHub account
